@@ -28,10 +28,10 @@ article h2{font-weight:normal;margin-bottom:12px}
 footer{background:#344;max-width:1000px;margin:0 -20px;clear:both;text-align:right}
 footer p{padding:20px;color:#FFF}
 address{padding:10px 20px 30px 10px}
-aside > div{margin:5px auto;background:#344;min-height:50px;padding:20px 10px;text-align:center;color:#FFF}
+aside > div{margin:5px auto;background:#344;min-height:50px;padding:30px 10px;text-align:center;color:#FFF}
 a#logo{vertical-align:middle;font-size:40px;color:#344;font-weight:bold;display:block;text-decoration:none;text-align:center;line-height:40px;padding:60px 5px}
 body > section{max-width:1000px;margin:auto;padding:30px 0px;border-bottom:1px solid #999;color:#333}
-#sidebarBackTop{background:#286983;color:#FFF;opacity:0.8;cursor:pointer;display:block;padding:5px}
+#sidebarBackTop{background:blue;color:#FFF;opacity:0.8;cursor:pointer;display:block;padding:5px}
 #sidebar a.back2Top{text-decoration:none;text-align:center;background:#344;color:#FFF;font-weight:bold;padding:5px;display:block}
 #sidebar a.back2Top:hover{background:#456}
 #sidebarContent{width:300px;background:#9dc1c1;padding:10px}
